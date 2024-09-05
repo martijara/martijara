@@ -6,5 +6,5 @@
 
 **💡 Project Highlights**
 - 
-- 🦙 Co-pilot Llama GNOME Extension: [Open](https://gitlab.com/coffeecionado/llama-copilot)
+- 🦙 Co-pilot Llama GNOME Extension: [Try it!](https://gitlab.com/coffeecionado/llama-copilot)
 - 🕷️ Spidey Recruiter: [In-development]()
