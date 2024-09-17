@@ -5,5 +5,5 @@
 
 **💡 Project Highlights**
 ---
-- 🦙 Co-pilot Llama GNOME Extension: [Try it!](https://gitlab.com/coffeecionado/llama-copilot)
+- 🦙 Co-pilot Llama GNOME Extension: [Check it out!](https://coffeecionado.gitlab.io/Penguin-AI-Chatbot-for-GNOME/)
 - 🕷️ Spidey Recruiter: [In-development](#)
