@@ -8,4 +8,4 @@
 - 🦙 Co-pilot Llama GNOME Extension: [Check it out!](https://martijara.gitlab.io/Penguin-AI-Chatbot-for-GNOME/)
 - 🕷️ Spidey Recruiter: [In-development](#)
 
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=martijara)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=martijara&theme=dark&border_radius=14&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
