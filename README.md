@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **David**
 - 👀 I’m interested in computational democracacy, machine learning, cryptography, quantum applications of everything to the left
 - 🌱 I’m currently an applied mathematics and computer science undergraduate student
-- **🔗 Website:** [martijara.gitlab.io](https://martijara.gitlab.io)
+- **🔗 Website:** [@martijara](https://martijara.pages.dev/)
 
 **💡 Project Highlights**
 ---
