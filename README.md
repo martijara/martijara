@@ -9,6 +9,6 @@
 - 🕷️ Spidey Recruiter: [In-development](#)
 
 
-**🔥 Streak (I like streaks)**
+**🔥 Streak**
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=martijara&theme=dark&border_radius=14&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=martijara&theme=dark&border_radius=14&card_width=1200&card_height=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
