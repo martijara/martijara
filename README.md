@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **David**
 - 👀 I’m interested in computational democracacy, machine learning, cryptography, quantum applications of everything to the left
-- 🌱 I’m currently a mathematics and physics undergraduate student
+- 🌱 I’m currently a first-year physics undergraduate student
 - **🔗 Website:** [@martijara](https://martijara.com)
